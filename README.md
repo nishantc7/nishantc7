@@ -1,4 +1,15 @@
 ### Hi there 👋
+[![Twitter Badge](https://img.shields.io/badge/-@NishantC_7-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NishantC_7)](https://twitter.com/NishantC_7) [![Linkedin Badge](https://img.shields.io/badge/-nishant_choudhary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishant-choudhary-972386187/)](https://www.linkedin.com/in/nishant-choudhary-972386187/) 
+[![Gmail Badge](https://img.shields.io/badge/-n1sh4ntch0udh4ry@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:n1sh4ntch0udh4ry@gmail.com)](mailto:n1sh4ntch0udh4ry@gmail.com)
+
+### I am Nishant Choudhary
+- An ML & Open Source enthusiast.
+- A Computer Engineering Undergraduate Student. 
+- 🌱 Currently learning Web Development and Machine Learning.
+- 💬 Ask me about: tech, memes, anime
+
+
+
 
 <!--
 **nishantc7/nishantc7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
