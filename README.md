@@ -6,7 +6,7 @@
 
 ### I am Nishant Choudhary
 - An ML & Open Source enthusiast.
-- A Computer Engineering Undergraduate Student. 
+- A Computer Science Engineering Undergraduate Student. 
 - 🌱 Currently learning Web Development and Machine Learning.
 - 💬 Ask me about: tech, memes, anime
 - [Blog](https://blissful-tereshkova-7e46c8.netlify.app/)
