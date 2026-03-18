@@ -1,6 +1,5 @@
 ### Hi 👋
 [![Twitter Badge](https://img.shields.io/badge/-@n1sh4n7-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/n1sh4n7)](https://twitter.com/n1sh4n7) [![Linkedin Badge](https://img.shields.io/badge/-nishant_choudhary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishant-choudhary-972386187/)](https://www.linkedin.com/in/nishant-choudhary-972386187/) 
- [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-blue.svg)](https://t.me/Nishantc7)  
  
 
 ### I am Nishant
