@@ -6,7 +6,7 @@
 - An ML & Open Source enthusiast.
 - 🌱 Currently learning System Architecture
 - 💬 Ask me about: finance, movies, anime
-- [Blog](https://blissful-tereshkova-7e46c8.netlify.app/)
+- [Blog](https://nishantc7.github.io/writing/)
 
 
 <!--
